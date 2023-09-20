@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [AnalogButton.PrjPCB]
+   Generated File[analog_button.TXT]
+   Generated File[analog_button-BoardEdgeRout.TXT]
+   Generated File[analog_button.LDP]
+   Generated File[analog_button.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:15:33 On 2019. 07. 31.
