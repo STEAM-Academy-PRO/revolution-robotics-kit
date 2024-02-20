@@ -1,0 +1,3 @@
+loadbin rrrc_bootloader_release.bin, 0
+r
+exit
