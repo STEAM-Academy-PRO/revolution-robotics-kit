@@ -1,3 +1,0 @@
-loadbin rrrc_eoltest.bin, 0
-r
-exit
