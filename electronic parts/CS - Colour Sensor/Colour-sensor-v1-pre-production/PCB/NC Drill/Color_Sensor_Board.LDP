@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\_STEAM\colour-sensor\new\PCB\Color_Sensor_Board.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=color_sensor_board-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=color_sensor_board-nonplated.txt|DrillLayers=gtl,gbl

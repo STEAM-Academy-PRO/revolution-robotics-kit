@@ -1,0 +1,48 @@
+Altium Designer Pick and Place Locations
+C:\_STEAM\colour-sensor\new\Project Outputs for Color_Sensor_Board\Pick Place\Pick Place for Color_Sensor_Board.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       30/05/24
+Time:       13:53
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment            Layer       Footprint                                Center-X(mm) Center-Y(mm) Rotation Description                                                          
+U6         VEML3328           BottomLayer Vishay_VEML3328                          115.0000     65.0000      180      "IC, Color Sensor, RGBCIR, I2C/SMBus, 2.6-3.6V, -40/+85, SMD"        
+U5         PCA9633TK,118      TopLayer    SON-8[4-4]_0.3_0.5_3x3x0.8_EP[1.65x2.25] 126.9500     71.5500      90       "IC, LED Driver, 4Ch, 2.3-5.5V, 25mA/Ch, 100mAmax, -40/+85, HVSON-8" 
+U4         VEML3328           BottomLayer Vishay_VEML3328                          127.0000     65.0000      180      "IC, Color Sensor, RGBCIR, I2C/SMBus, 2.6-3.6V, -40/+85, SMD"        
+U3         VEML3328           BottomLayer Vishay_VEML3328                          103.0000     65.0000      180      "IC, Color Sensor, RGBCIR, I2C/SMBus, 2.6-3.6V, -40/+85, SMD"        
+U2         VEML3328           BottomLayer Vishay_VEML3328                          115.0000     77.0000      180      "IC, Color Sensor, RGBCIR, I2C/SMBus, 2.6-3.6V, -40/+85, SMD"        
+U1         PCA9546APW         TopLayer    TSSOP-16[8-8]_0.45_0.65_4.4x5x1.1        103.8500     67.7250      270      "IC, I2C/SMBus Switch, 4Ch, 400kHz, -40/+85, TSSOP-16"               
+R15        RC0402FR-0715RL    BottomLayer R_0402                                   115.0000     61.5000      360      "Resistor, 15, 1%, 0.0625W, -55/+155, 0402"                          
+R14        RC0402FR-0715RL    BottomLayer R_0402                                   103.0000     61.5000      360      "Resistor, 15, 1%, 0.0625W, -55/+155, 0402"                          
+R13        RC0402FR-0715RL    BottomLayer R_0402                                   127.0000     61.5000      360      "Resistor, 15, 1%, 0.0625W, -55/+155, 0402"                          
+R12        RC0402FR-0715RL    BottomLayer R_0402                                   115.0000     73.5000      360      "Resistor, 15, 1%, 0.0625W, -55/+155, 0402"                          
+R11        RC0402FR-074K7L    TopLayer    R_0402                                   115.1000     64.6000      270      "Resistor, 4.7K, 1%, 0.063W, -55/+155, 0402"                         
+R10        RC0402FR-074K7L    TopLayer    R_0402                                   114.0000     64.6000      270      "Resistor, 4.7K, 1%, 0.063W, -55/+155, 0402"                         
+R9         RC0402FR-07100KL   TopLayer    R_0402                                   106.1500     73.8250      90       "Resistor, 100K, 1%, 0.063W, -55/+155, 0402"                         
+R8         RC0402FR-074K7L    TopLayer    R_0402                                   104.0500     73.8250      90       "Resistor, 4.7K, 1%, 0.063W, -55/+155, 0402"                         
+R7         RC0402FR-074K7L    TopLayer    R_0402                                   105.1000     73.8250      90       "Resistor, 4.7K, 1%, 0.063W, -55/+155, 0402"                         
+R6         RC0402FR-074K7L    TopLayer    R_0402                                   101.3750     73.8250      90       "Resistor, 4.7K, 1%, 0.063W, -55/+155, 0402"                         
+R5         RC0402FR-074K7L    TopLayer    R_0402                                   102.4250     73.8250      90       "Resistor, 4.7K, 1%, 0.063W, -55/+155, 0402"                         
+R4         RC0402FR-074K7L    TopLayer    R_0402                                   102.3000     62.4000      270      "Resistor, 4.7K, 1%, 0.063W, -55/+155, 0402"                         
+R3         RC0402FR-074K7L    TopLayer    R_0402                                   101.4000     62.4000      270      "Resistor, 4.7K, 1%, 0.063W, -55/+155, 0402"                         
+R2         RC0402FR-074K7L    TopLayer    R_0402                                   104.1000     62.4000      270      "Resistor, 4.7K, 1%, 0.063W, -55/+155, 0402"                         
+R1         RC0402FR-074K7L    TopLayer    R_0402                                   103.2000     62.4000      270      "Resistor, 4.7K, 1%, 0.063W, -55/+155, 0402"                         
+LED4       LTW-M140SZS40      BottomLayer Lite-On_LTW-M140SZS40                    115.0000     63.1000      180      "Diode, LED, White, 20mA, 3.2V, -30/+85, 3.0x1.4x1.2mm"              
+LED3       LTW-M140SZS40      BottomLayer Lite-On_LTW-M140SZS40                    103.0000     63.1000      180      "Diode, LED, White, 20mA, 3.2V, -30/+85, 3.0x1.4x1.2mm"              
+LED2       LTW-M140SZS40      BottomLayer Lite-On_LTW-M140SZS40                    127.0000     63.1000      180      "Diode, LED, White, 20mA, 3.2V, -30/+85, 3.0x1.4x1.2mm"              
+LED1       LTW-M140SZS40      BottomLayer Lite-On_LTW-M140SZS40                    115.0000     75.1000      180      "Diode, LED, White, 20mA, 3.2V, -30/+85, 3.0x1.4x1.2mm"              
+CON1       0955016890         TopLayer    MOLEX_955016890                          115.0000     75.2875      180      "Conn, RJ-45, Unshielded, P-1.27mm, RA, -40/+85, SMD"                
+C9         CC0402KRX7R7BB104  TopLayer    C_0402                                   125.4000     75.3000      360      "Capacitor, 100nF, 16V, X7R, 10%, -55/+125,0402"                     
+C8         CC0402KRX5R7BB105  TopLayer    C_0402                                   125.4000     74.2250      360      "Capacitor, 1uF, 16V, X5R, 10%, -55/+85, 0402"                       
+C7         CC0402KRX7R7BB104  BottomLayer C_0402                                   115.0000     66.5000      180      "Capacitor, 100nF, 16V, X7R, 10%, -55/+125,0402"                     
+C6         CC0402KRX7R7BB104  BottomLayer C_0402                                   127.0000     66.5000      180      "Capacitor, 100nF, 16V, X7R, 10%, -55/+125,0402"                     
+C5         C0402C106M9PAC7867 TopLayer    C_0402                                   116.0000     63.6000      90       "Capacitor, 10uF, 6.3V, 20%, X5R, -55/+85 0402"                      
+C4         CC0402KRX7R7BB104  BottomLayer C_0402                                   103.0000     66.5000      180      "Capacitor, 100nF, 16V, X7R, 10%, -55/+125,0402"                     
+C3         CC0402KRX7R7BB104  TopLayer    C_0402                                   105.5000     62.9000      360      "Capacitor, 100nF, 16V, X7R, 10%, -55/+125,0402"                     
+C2         CC0402KRX5R7BB105  TopLayer    C_0402                                   105.5000     62.0000      360      "Capacitor, 1uF, 16V, X5R, 10%, -55/+85, 0402"                       
+C1         CC0402KRX7R7BB104  BottomLayer C_0402                                   115.0000     78.5000      180      "Capacitor, 100nF, 16V, X7R, 10%, -55/+125,0402"                     
