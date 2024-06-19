@@ -1,0 +1,4 @@
+1. Jiang Yuan Zhizhao	P12-0542-002	Switch, Slide, Vertical, DPDT, Shielded, RA, TH
+
+Switch length should be 4.8 mm
+
