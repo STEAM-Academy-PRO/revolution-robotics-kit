@@ -1,4 +1,20 @@
 1. Jiang Yuan Zhizhao	P12-0542-002	Switch, Slide, Vertical, DPDT, Shielded, RA, TH
 
-Switch length should be 4.8 mm
+    Switch length should be 4.8 mm
+
+2. Wire length to connect LED board to the carrier board
+
+    90 mm
+
+3. Wire length to connect Battery to the carrier board
+
+    110 mm
+
+4. LCD board needs clean speaker pads.
+
+    In some versions of the Gerber files the speaker pads have tin applied. They should be clean, without tin.
+
+5. Button sensor button component
+    
+    It needs to be in the middle in terms of softness. Too hard to push is not good, too soft to push is not good.
 
