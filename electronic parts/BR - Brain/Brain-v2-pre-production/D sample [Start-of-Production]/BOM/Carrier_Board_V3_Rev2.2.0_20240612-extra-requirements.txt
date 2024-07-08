@@ -8,7 +8,7 @@
 
 3. Wire length to connect Battery to the carrier board
 
-    110 mm
+    90 mm
 
 4. LCD board needs clean speaker pads.
 
