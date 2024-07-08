@@ -17,8 +17,8 @@ G04:AMPARAMS|DCode=18|XSize=0.55mm|YSize=0.55mm|CornerRadius=0.095mm|HoleSize=0m
 1,1,0.190,0.180,0.180*
 %
 %ADD18ROUNDEDRECTD18*%
-G04:AMPARAMS|DCode=50|XSize=1.2mm|YSize=1.3mm|CornerRadius=0.1mm|HoleSize=0mm|Usage=FLASHONLY|Rotation=90.000|XOffset=0mm|YOffset=0mm|HoleType=Round|Shape=RoundedRectangle|*
-%AMROUNDEDRECTD50*
+G04:AMPARAMS|DCode=48|XSize=1.2mm|YSize=1.3mm|CornerRadius=0.1mm|HoleSize=0mm|Usage=FLASHONLY|Rotation=90.000|XOffset=0mm|YOffset=0mm|HoleType=Round|Shape=RoundedRectangle|*
+%AMROUNDEDRECTD48*
 21,1,1.200,1.100,0,0,90.0*
 21,1,1.000,1.300,0,0,90.0*
 1,1,0.200,0.550,0.500*
@@ -26,9 +26,9 @@ G04:AMPARAMS|DCode=50|XSize=1.2mm|YSize=1.3mm|CornerRadius=0.1mm|HoleSize=0mm|Us
 1,1,0.200,-0.550,-0.500*
 1,1,0.200,-0.550,0.500*
 %
-%ADD50ROUNDEDRECTD50*%
-G04:AMPARAMS|DCode=51|XSize=0.95mm|YSize=0.3mm|CornerRadius=0.063mm|HoleSize=0mm|Usage=FLASHONLY|Rotation=0.000|XOffset=0mm|YOffset=0mm|HoleType=Round|Shape=RoundedRectangle|*
-%AMROUNDEDRECTD51*
+%ADD48ROUNDEDRECTD48*%
+G04:AMPARAMS|DCode=49|XSize=0.95mm|YSize=0.3mm|CornerRadius=0.063mm|HoleSize=0mm|Usage=FLASHONLY|Rotation=0.000|XOffset=0mm|YOffset=0mm|HoleType=Round|Shape=RoundedRectangle|*
+%AMROUNDEDRECTD49*
 21,1,0.950,0.175,0,0,0.0*
 21,1,0.825,0.300,0,0,0.0*
 1,1,0.125,0.413,-0.088*
@@ -36,9 +36,9 @@ G04:AMPARAMS|DCode=51|XSize=0.95mm|YSize=0.3mm|CornerRadius=0.063mm|HoleSize=0mm
 1,1,0.125,-0.413,0.088*
 1,1,0.125,0.413,0.088*
 %
-%ADD51ROUNDEDRECTD51*%
-G04:AMPARAMS|DCode=52|XSize=0.85mm|YSize=0.3mm|CornerRadius=0.063mm|HoleSize=0mm|Usage=FLASHONLY|Rotation=0.000|XOffset=0mm|YOffset=0mm|HoleType=Round|Shape=RoundedRectangle|*
-%AMROUNDEDRECTD52*
+%ADD49ROUNDEDRECTD49*%
+G04:AMPARAMS|DCode=50|XSize=0.85mm|YSize=0.3mm|CornerRadius=0.063mm|HoleSize=0mm|Usage=FLASHONLY|Rotation=0.000|XOffset=0mm|YOffset=0mm|HoleType=Round|Shape=RoundedRectangle|*
+%AMROUNDEDRECTD50*
 21,1,0.850,0.175,0,0,0.0*
 21,1,0.725,0.300,0,0,0.0*
 1,1,0.125,0.363,-0.088*
@@ -46,7 +46,7 @@ G04:AMPARAMS|DCode=52|XSize=0.85mm|YSize=0.3mm|CornerRadius=0.063mm|HoleSize=0mm
 1,1,0.125,-0.363,0.088*
 1,1,0.125,0.363,0.088*
 %
-%ADD52ROUNDEDRECTD52*%
+%ADD50ROUNDEDRECTD50*%
 D18*
 X0102500Y0066500D02*
 D03*
@@ -80,7 +80,7 @@ X0127500Y0066500D02*
 D03*
 X0126500D02*
 D03*
-D50*
+D48*
 X0104175Y0063100D02*
 D03*
 X0101825D02*
@@ -97,7 +97,7 @@ X0128175Y0063100D02*
 D03*
 X0125825D02*
 D03*
-D51*
+D49*
 X0102100Y0064650D02*
 D03*
 X0114100Y0064650D02*
@@ -106,7 +106,7 @@ Y0076650D02*
 D03*
 X0126100Y0064650D02*
 D03*
-D52*
+D50*
 X0102050Y0065350D02*
 D03*
 X0103950D02*

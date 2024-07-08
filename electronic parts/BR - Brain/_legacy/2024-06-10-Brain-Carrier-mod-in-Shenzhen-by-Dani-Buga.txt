@@ -1,0 +1,7 @@
+HM5166 can not be turned off - there is a body diode inside that conducts when EN is low.
+Recommended solution:
+- Connect `VBAT` to `S1 pin 3`
+- Remove R19
+- Connect `S1 pin 3` to VBAT (instead of NC)
+- Connect L3, C113, C72, C75 to `S1 pin 2` (PWR_EN instead of VBAT)
+- Connect R97 to `S1 pin 2` (PWR_EN instead of VBAT)

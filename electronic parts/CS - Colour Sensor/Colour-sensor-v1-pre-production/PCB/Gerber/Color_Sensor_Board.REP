@@ -2,6 +2,70 @@
 FileName = Color_Sensor_Board.GBR
 AutoAperture = True
 *************************************************************
+Generating : Bottom Paste
+      File : Color_Sensor_Board.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Color_Sensor_Board.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Color_Sensor_Board.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Color_Sensor_Board.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
 Generating : Top Layer
       File : Color_Sensor_Board.GTL
 
@@ -11,6 +75,7 @@ Generating : Top Layer
 
 
 Used DCodes :
+    D31
     D32
     D33
     D34
@@ -21,50 +86,6 @@ Used DCodes :
     D39
     D40
     D41
-    D42
-    D43
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Color_Sensor_Board.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D21
-    D24
-    D28
-    D29
-    D30
-    D47
-    D48
-    D49
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Color_Sensor_Board.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D33
-    D36
-    D40
-    D42
-    D43
-    D44
-    D45
-    D46
 *************************************************************
 
 *************************************************************
@@ -90,71 +111,6 @@ Used DCodes :
     D28
     D29
     D30
-    D31
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : Color_Sensor_Board.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D18
-    D50
-    D51
-    D52
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : Color_Sensor_Board.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Color_Sensor_Board.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D12
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Color_Sensor_Board.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
 *************************************************************
 
 *************************************************************
@@ -166,5 +122,45 @@ Generating : Mechanical 1
 
 Used DCodes :
     D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Color_Sensor_Board.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D27
+    D28
+    D29
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Color_Sensor_Board.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D34
+    D38
+    D40
+    D41
+    D42
+    D43
+    D44
 *************************************************************
 
