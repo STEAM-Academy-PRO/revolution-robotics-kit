@@ -1,0 +1,6 @@
+"Net","Name","X Coord","Y Coord","Side","Hole Size","Type"
+"WS2812_D","TP4-1","53.7mm","52mm","Bottom","0mm","Surface mount"
+"5V","TP3-1","51.1mm","52mm","Bottom","0mm","Surface mount"
+"GND","TP5-1","56.3mm","52mm","Bottom","0mm","Surface mount"
+"NetLS1_1","TP6-1","58.9mm","52mm","Bottom","0mm","Surface mount"
+"NetLS1_2","TP7-1","61.5mm","52mm","Bottom","0mm","Surface mount"
