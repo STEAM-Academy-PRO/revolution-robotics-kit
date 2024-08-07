@@ -1,2 +1,4 @@
-We recommend palletizing your goods on plastic or wooden heat treated pallets (note wooden pallets are more common and generally less costly). Pallets must be a maximum 62" tall to travel on passenger aircraft.
-Standard pallet size is 48" L x 40" W.
+Package max height on a passenger aircraft: 
+ - height: 160 cm, from which 15cm is the pallet
+ - width: 40" (~100 cm)
+ - length: 48" (~120 cm)
