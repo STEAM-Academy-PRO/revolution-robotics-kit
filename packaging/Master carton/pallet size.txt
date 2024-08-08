@@ -1,4 +1,0 @@
-Package max height on a passenger aircraft: 
- - height: 160 cm, from which 15cm is the pallet
- - width: 40" (~100 cm)
- - length: 48" (~120 cm)

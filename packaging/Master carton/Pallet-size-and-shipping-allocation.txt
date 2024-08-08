@@ -1,0 +1,37 @@
+Box sizes:
+- Kit boxes: 570 mm x 320 mm x 205 mm; 4 kits in each box
+- Toolbox top: 700 mm x 310 mm x 410 mm; 40 piece each box
+- Blister tray: 410 mm x 570 mm x 550 mm; 100 piece each box
+
+Package max height on a passenger aircraft: 
+- height: 160 cm, from which 15cm is the pallet
+- width: 40" (~100 cm)
+- length: 48" (~120 cm)
+
+Pallet allocation:
+- Kits: 120 per pallet (passenger aircraft)
+  - The height per kit carton is 205mm
+  - The pallet height is 150mm.
+  - The height limitation of air shipment is 1.6m. (1600 mm)
+  - 4 kits fit in one box
+  - 6 cartons fit in one layer
+  - 5 layers fit in one pallet
+  - 4 * 6 * 5 = 120 per pallet
+
+ - Toolbox top: 160 per pallet (passenger aircraft)
+  - The height per toolbox top carton is 410 mm.
+  - The pallet height is 150mm.
+  - The height limitation of air shipment is 1.6m. (1600 mm)
+  - 40 tops fit in one box
+  - 4 cartons fit in one layer
+  - 4 * 40 = 160 per pallet
+
+- The pallet height this way: 5 * 205 mm (kits) +  1 * 410 mm (tops) + 150 mm (pallet) = 1585 mm < 1600. 
+
+Shipping cost:
+- The shipping cost (regardless of air shipment or sea shipment) is based on volume & weight.
+- 1 cbm (cubic meter) counts as 167kgs.
+- The shipping company calculates the cost based on the larger number: 
+  - Either the weight of the product
+  - Or the packaging size compared to weight (1 cubic meter = 167kg).
+- In general, the less pallet we ship, the less shipping charge will be.
